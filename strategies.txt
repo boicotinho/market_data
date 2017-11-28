@@ -1,0 +1,3 @@
+#         strategy_id                                    XXX                                       XXX
+#pfid, msgtyp,    sid, min_buy_qty, buy_total_qty, buy_price, min_sell_qty, sell_total_qty, sell_price, buy_traded_qty, sell_traded_qty
+    0,      1,      0,         100,       1000000,  -1111111,          100,        1000000,   -1111111,            100,             100
